@@ -1,13 +1,13 @@
 real A,B,C
 inicio 
-escriba "multiplicacion de dos numeros"
+escriba "division de dos numeros"
 llamar nueva_linea
 escriba "ingrese el primer numero "
 lea A
 llamar nueva_linea
 escriba "ingrese el segundo numero "
 lea B
-C<-A*B
+C<-A/B
 llamar nueva_linea
-escriba "el producto de ", A, " por ", B, " es: ", C
+escriba "el producto de ", A, " dividido ", B, " es: ", C
 fin
