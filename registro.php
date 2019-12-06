@@ -6,7 +6,6 @@ if(isset($_SESSION['email']))
     header("Location: Perfil.php");
   }
 
-ini_set('error_reporting',0);
 ?>
 <!DOCTYPE html>
 
